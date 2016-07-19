@@ -1,0 +1,47 @@
+#css-zen-garden{
+	background-image: url(fondo.jpg);
+}
+.intro {
+	background: #9DDFF7;
+	width: 800px;
+}
+
+.explanation{
+	background-color: #FDBC77;
+	height:200px;
+	width: 800px;
+}
+.participation{
+	background-color: #9DDFF7;
+	height:245px;
+	width:800px;
+}
+.benefits{
+	background-color: #FDBC77;
+	height:100px;
+	width:800px;
+}
+.requirements{
+	background-color: #9DDFF7; 
+	height: 400px;
+	width:800px;
+}
+.sidebar{
+	background-color: #E9F2F2;
+	height: 450px;
+	width: 800px;
+}
+body{
+	padding: 20%;
+}
+h1{ 
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+	font-size: 90px;
+}
+a:link{
+	font-family: Sablo;
+	font-size: 14px;
+	text-decoration: none;
+	color:#6E8081;
+}
